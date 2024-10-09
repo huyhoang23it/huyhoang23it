@@ -1,4 +1,4 @@
-[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/341789912/original/167696b935e5230fae6c26d930b784884e69bf18/provide-comprehensive-automation-testing-qa-services.png)](https://rishavchanda.io)
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nguyenhuyhoangg/) 
 
