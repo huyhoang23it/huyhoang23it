@@ -1,4 +1,4 @@
-
+[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/341789912/original/167696b935e5230fae6c26d930b784884e69bf18/provide-comprehensive-automation-testing-qa-services.png)](https://rishavchanda.io)
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nguyenhuyhoangg/) 
 
@@ -15,8 +15,6 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=huyhoang23it&icon=0&color=0)](https://visitcount.itsvg.in)
